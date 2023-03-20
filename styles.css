@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Shantell+Sans:wght@300;400&display=swap');
+
+body{
+    align-items: center;
+    background-color: black;
+}
+.title h1{
+    font-size:5rem;
+    font-family: 'ShantellSans',sans-serif;
+    color: aliceblue;
+    text-align: center;
+    padding:0% 40% ;
+}
+#numbers{
+    padding: 0% 40%;
+    }
+button{
+    width: 40%;
+}
+.row1,.row2,.row3,.row4,.row5{
+    padding: 5%;
+}
+ 
+    input{
+        height: 50px;
+        border: 4px solid black;
+        border-radius: 5px;
+        font-size: 20px;
+        font-family: sans-serif ;
+        margin:0 ;
+        padding: 0px 30%;
+        
+        }
+
